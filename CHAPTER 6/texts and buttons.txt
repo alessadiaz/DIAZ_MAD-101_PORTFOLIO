@@ -1,0 +1,1 @@
+In Flutter, the Text widget displays customizable strings, allowing adjustments to properties like font size, weight, and color, and can be positioned using layout widgets like Column or Row. The ElevatedButton widget serves as an interactive button that requires an onPressed callback to define its action and a child property for labeling. 
